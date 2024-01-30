@@ -101,8 +101,3 @@ Contributions are welcome! If you find issues or want to enhance the analysis, p
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to further customize the README based on additional details or specific aspects of your project. The goal is to provide a clear and informative overview for anyone visiting your GitHub repository.
-```
